@@ -1,0 +1,71 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 外框 -->
+  <rect width="200" height="200" fill="white" stroke="#00B900" stroke-width="4"/>
+  
+  <!-- QR Code 模擬圖案 -->
+  <rect x="20" y="20" width="160" height="160" fill="white"/>
+  
+  <!-- 左上角定位點 -->
+  <rect x="20" y="20" width="40" height="40" fill="#00B900"/>
+  <rect x="30" y="30" width="20" height="20" fill="white"/>
+  <rect x="35" y="35" width="10" height="10" fill="#00B900"/>
+  
+  <!-- 右上角定位點 -->
+  <rect x="140" y="20" width="40" height="40" fill="#00B900"/>
+  <rect x="150" y="30" width="20" height="20" fill="white"/>
+  <rect x="155" y="35" width="10" height="10" fill="#00B900"/>
+  
+  <!-- 左下角定位點 -->
+  <rect x="20" y="140" width="40" height="40" fill="#00B900"/>
+  <rect x="30" y="150" width="20" height="20" fill="white"/>
+  <rect x="35" y="155" width="10" height="10" fill="#00B900"/>
+  
+  <!-- QR Code 數據模擬 -->
+  <rect x="70" y="30" width="10" height="10" fill="#00B900"/>
+  <rect x="90" y="30" width="10" height="10" fill="#00B900"/>
+  <rect x="110" y="30" width="10" height="10" fill="#00B900"/>
+  <rect x="130" y="30" width="10" height="10" fill="#00B900"/>
+  
+  <rect x="70" y="50" width="10" height="10" fill="#00B900"/>
+  <rect x="90" y="50" width="10" height="10" fill="#00B900"/>
+  <rect x="110" y="50" width="10" height="10" fill="#00B900"/>
+  <rect x="130" y="50" width="10" height="10" fill="#00B900"/>
+  
+  <rect x="70" y="70" width="10" height="10" fill="#00B900"/>
+  <rect x="90" y="70" width="10" height="10" fill="#00B900"/>
+  <rect x="110" y="70" width="10" height="10" fill="#00B900"/>
+  <rect x="130" y="70" width="10" height="10" fill="#00B900"/>
+  
+  <rect x="70" y="90" width="10" height="10" fill="#00B900"/>
+  <rect x="90" y="90" width="10" height="10" fill="#00B900"/>
+  <rect x="110" y="90" width="10" height="10" fill="#00B900"/>
+  <rect x="130" y="90" width="10" height="10" fill="#00B900"/>
+  
+  <rect x="70" y="110" width="10" height="10" fill="#00B900"/>
+  <rect x="90" y="110" width="10" height="10" fill="#00B900"/>
+  <rect x="110" y="110" width="10" height="10" fill="#00B900"/>
+  <rect x="130" y="110" width="10" height="10" fill="#00B900"/>
+  
+  <rect x="70" y="130" width="10" height="10" fill="#00B900"/>
+  <rect x="90" y="130" width="10" height="10" fill="#00B900"/>
+  <rect x="110" y="130" width="10" height="10" fill="#00B900"/>
+  <rect x="130" y="130" width="10" height="10" fill="#00B900"/>
+  
+  <rect x="70" y="150" width="10" height="10" fill="#00B900"/>
+  <rect x="90" y="150" width="10" height="10" fill="#00B900"/>
+  <rect x="110" y="150" width="10" height="10" fill="#00B900"/>
+  <rect x="130" y="150" width="10" height="10" fill="#00B900"/>
+  
+  <rect x="70" y="170" width="10" height="10" fill="#00B900"/>
+  <rect x="90" y="170" width="10" height="10" fill="#00B900"/>
+  <rect x="110" y="170" width="10" height="10" fill="#00B900"/>
+  <rect x="130" y="170" width="10" height="10" fill="#00B900"/>
+  
+  <!-- 中心區域 -->
+  <rect x="80" y="80" width="40" height="40" fill="#00B900"/>
+  <rect x="90" y="90" width="20" height="20" fill="white"/>
+  <rect x="95" y="95" width="10" height="10" fill="#00B900"/>
+  
+  <!-- LINE Logo 文字 -->
+  <text x="100" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#00B900" font-weight="bold">LINE QR</text>
+</svg>
